@@ -15,7 +15,7 @@ Roda o app em modo de desenvolvimento no endereço http://localhost:3000 (endere
 
 ## `Showcase`
 
-Para ver o projeto rodando sem ter de baixá-lo, acesse o endereço https://musing-newton-1e91ef.netlify.com/
+Para ver o projeto rodando sem ter de baixá-lo, acesse o endereço https://keen-varahamihira-262dca.netlify.com/
 
 
 ### `Sobre o projeto`
