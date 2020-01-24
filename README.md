@@ -8,7 +8,7 @@ Para baixar todas as bibliotecas necessárias
 
 Ao baixar esse projeto, em seu diretório, para rodar o projeto em modo de desenvolvimento rode o comando:
 
-### `yarn start`
+### `yarn start` ou `npm start`
 
 Roda o app em modo de desenvolvimento no endereço http://localhost:3000 (endereço padrão)
 
