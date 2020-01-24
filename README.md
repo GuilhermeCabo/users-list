@@ -25,7 +25,7 @@ podendo esses serem filtrados por domínio de e-mail
 
 ##  `Bibliotecas utilizadas`
 
-Para consultas à API: https://github.com/axios/axios
-Compilação de CSS: https://github.com/styled-components/styled-components
-Ícones: https://github.com/react-icons/react-icons
-Mudanças de opacidade dinâmicas: https://github.com/styled-components/polished
+Para consultas à API: https://github.com/axios/axios  
+Compilação de CSS: https://github.com/styled-components/styled-components  
+Ícones: https://github.com/react-icons/react-icons  
+Mudanças de opacidade dinâmicas: https://github.com/styled-components/polished  
